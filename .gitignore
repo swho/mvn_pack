@@ -1,3 +1,4 @@
 build
 mvn_pack.iml
 mvn_pack_run.spec
+.idea
